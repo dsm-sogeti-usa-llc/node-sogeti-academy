@@ -1,0 +1,19 @@
+{
+  "name": "node-sogeti-academy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsm-sogeti-usa-llc/node-sogeti-academy.git"
+  },
+  "author": "Sogeti USA, LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dsm-sogeti-usa-llc/node-sogeti-academy/issues"
+  },
+  "homepage": "https://github.com/dsm-sogeti-usa-llc/node-sogeti-academy#readme"
+}
