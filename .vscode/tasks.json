@@ -1,0 +1,14 @@
+{
+    "version": "0.1.0",
+    "command": "npm",
+    "isShellCommand": true,
+    "echoCommand": true,
+    "tasks": [
+        {
+            "taskName": "test",
+            "isTestCommand": true,
+            "showOutput": "always",
+            "echoCommand": true
+        }
+    ]
+}
